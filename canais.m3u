@@ -1,15 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
-http://204.12.227.194:80/4/live.m3u8
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD²
+#EXTINF:-1 tvg-id="globo.sp2" tvg-name="Globo SP HD²" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | Globo",Globo SP HD²
 http://conexao-vs.live/GLOBO/index.m3u8
 
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD³
+#EXTINF:-1 tvg-id="globo.sp3" tvg-name="Globo SP HD³" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | Globo",Globo SP HD³
 https://new.m3u8.one/globosp/index.m3u8
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM Bauru 
-
 
 #EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movies",24 Hour Free Movies (720p)
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
