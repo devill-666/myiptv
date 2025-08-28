@@ -1,121 +1,45 @@
 #EXTM3U
 
-#########################
-#       NOTÍCIAS        #
-#########################
-#EXTINF:-1 group-title="Notícias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/CNN_International_logo.svg",CNN Internacional
-http://link-cnn.m3u8
-#EXTINF:-1 group-title="Notícias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg",Fox News
-http://link-foxnews.m3u8
-#EXTINF:-1 group-title="Notícias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/BBC_News_2022_%28Alt%29.svg",BBC News
-http://link-bbc.m3u8
-#EXTINF:-1 group-title="Notícias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Al_Jazeera_English_logo.svg",Al Jazeera
-http://link-aljazeera.m3u8
-#EXTINF:-1 group-title="Notícias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/MSNBC_logo_2021.svg",MSNBC
-http://link-msnbc.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png" group-title="News",Jovem Pan News (JP News) (1080p) [Not 24/7]
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV US (1080p)
+https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="News",Record News (720p)
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-id="Record.br" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="General",RecordTV
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movies",24 Hour Free Movies (720p)
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
+#EXTINF:-1 tvg-id="ABC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="General",ABC
+@@ -52,8 +59,7 @@ https://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://i.imgur.com/T4HwPUn.png" group-title="General",Bloomberg Quicktake
+https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV US (1080p)
+https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.m3u8
 
-#########################
-#        FILMES         #
-#########################
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_logo.svg",HBO
-http://link-hbo.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Cinemax_2016.svg",Cinemax
-http://link-cinemax.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/AMC_logo_2019.svg",AMC
-http://link-amc.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/FX_logo.svg",FX
-http://link-fx.m3u8
+#EXTINF:-1 tvg-id="KMBYLD5.us" tvg-logo="https://i.imgur.com/px0CSti.png" group-title="Animation",Blues TV
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Bravo.us@East" tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="Undefined",Bravo East
+@@ -224,8 +230,7 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2 Latin America
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png" group-title="News",Jovem Pan News (JP News) (1080p) [Not 24/7]
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
-#########################
-#       ESPORTES        #
-#########################
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN
-http://link-espn.m3u8
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/NBA_TV_logo.svg",NBA TV
-http://link-nbatv.m3u8
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Bein_sports_logo_2017.svg",beIN Sports
-http://link-bein.m3u8
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Fox_Sports_logo.svg",Fox Sports
-http://link-foxsports.m3u8
+#EXTINF:-1 tvg-id="Kanade.cl" tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Animation;Entertainment",Kanade (1080p)
+https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="MTVHitsEurope.uk" tvg-logo="https://i.imgur.com/zNscEST.png" group-title="Music",MTV Hits Europe
+@@ -234,10 +239,7 @@ http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic Latin America
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="News",Record News (720p)
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-id="Record.br" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="General",RecordTV
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
-#########################
-#     ENTRETENIMENTO    #
-#########################
-#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Bravo_logo.svg",Bravo
-http://link-bravo.m3u8
-#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Comedy_Central_2018.svg",Comedy Central
-http://link-comedy.m3u8
-#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Paramount_Network_2021.svg",Paramount Network
-http://link-paramount.m3u8
-
-#########################
-#       INFANTIL        #
-#########################
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Cartoon_Network_logo.svg",Cartoon Network
-http://link-cn.m3u8
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney_Channel_logo.svg",Disney Channel
-http://link-disney.m3u8
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Nickelodeon_logo.svg",Nickelodeon
-http://link-nick.m3u8
-
-#########################
-#        MÚSICA         #
-#########################
-#EXTINF:-1 group-title="Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/MTV_Logo.svg",MTV
-http://link-mtv.m3u8
-#EXTINF:-1 group-title="Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/BET_2021_logo.svg",BET
-http://link-bet.m3u8
-
-#########################
-#    DOCUMENTÁRIOS      #
-#########################
-#EXTINF:-1 group-title="Documentários" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Discovery_Channel_logo_2019.svg",Discovery Channel
-http://link-discovery.m3u8
-#EXTINF:-1 group-title="Documentários" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/History_Logo.svg",History Channel
-http://link-history.m3u8
-#EXTINF:-1 group-title="Documentários" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/NatGeo_Logo.svg",National Geographic
-http://link-natgeo.m3u8
-
-#########################
-# ESTILO DE VIDA/REALITY#
-#########################
-#EXTINF:-1 group-title="Estilo de Vida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Food_Network_logo.svg",Food Network
-http://link-food.m3u8
-#EXTINF:-1 group-title="Estilo de Vida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HGTV_2010_logo.svg",HGTV
-http://link-hgtv.m3u8
-#EXTINF:-1 group-title="Estilo de Vida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TLC_logo_2016.svg",TLC
-http://link-tlc.m3u8
-
-#########################
-#      RELIGIOSO        #
-#########################
-#EXTINF:-1 group-title="Religioso" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/EWTN_logo.svg",EWTN
-http://link-ewtn.m3u8
-#EXTINF:-1 group-title="Religioso" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/TBN_logo.svg",TBN
-http://link-tbn.m3u8
-
-#########################
-# NEGÓCIOS / FINANÇAS   #
-#########################
-#EXTINF:-1 group-title="Negócios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Bloomberg_Television_logo.svg",Bloomberg TV
-http://link-bloomberg.m3u8
-#EXTINF:-1 group-title="Negócios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/CNBC_logo.svg",CNBC
-http://link-cnbc.m3u8
-#EXTINF:-1 group-title="Negócios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Fox_Business_logo.svg",Fox Business
-http://link-foxbusiness.m3u8
-
-#########################
-#    AUTOMOBILISMO      #
-#########################
-#EXTINF:-1 group-title="Automobilismo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Motor_Trend_Logo.svg",MotorTrend
-http://link-motortrend.m3u8
-#EXTINF:-1 group-title="Automobilismo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/MAVTV_logo.svg",MAVTV
-http://link-mavtv.m3u8
-
-#########################
-#        OUTROS         #
-#########################
-#EXTINF:-1 group-title="Outros" tvg-logo="",Canal Diversos 1
-http://link-diversos1.m3u8
-#EXTINF:-1 group-title="Outros" tvg-logo="",Canal Diversos 2
-http://link-diversos2.m3u8
+#EXTINF:-1 tvg-id="SuperflixTV.br" tvg-logo="https://i.imgur.com/lvUbMen.png" group-title="Entertainment;Movies;Series",Superflix TV (720p)
+https://streaming.cloudecast.com/hls/superflix/index.m3u8
+#EXTINF:-1 tvg-id="TVMAX.br" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="Undefined",TV MAX (720p)
